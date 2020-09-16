@@ -13,13 +13,13 @@ Usage instructions:
 Map configuration:
 
 - Map legend:
-	1 = WALL
-	0 = ACCESIBLE SPACE
-	2 = SPRITE
-	N = START POSITION of the player, looking at NORTH DIRECTION.
-	S = START POSITION of the player, looking at SOUTH DIRECTION.
-	W = START POSITION of the player, looking at WEST DIRECTION.
-	E = START POSITION of the player, looking at EAST DIRECTION.
+	- 1 = WALL
+	- 0 = ACCESIBLE SPACE
+	- 2 = SPRITE
+	- N = START POSITION of the player, looking at NORTH DIRECTION.
+	- S = START POSITION of the player, looking at SOUTH DIRECTION.
+	- W = START POSITION of the player, looking at WEST DIRECTION.
+	- E = START POSITION of the player, looking at EAST DIRECTION.
 
 - Valid map conditions:
 	1. All ACCESIBLE SPACE must be surrounded by WALLs.
