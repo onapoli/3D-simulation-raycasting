@@ -1,0 +1,18 @@
+R 500 500
+NO purplestone.xpm
+SO redbrick.xpm
+WE greystone.xpm
+EA wood.xpm
+
+S sprite.xpm
+F 255,255,255
+C 0,0,0
+
+1111
+10W1
+101111
+1000201
+1002001
+1020201
+1022001
+111111
