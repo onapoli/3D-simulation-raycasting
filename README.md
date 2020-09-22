@@ -1,6 +1,10 @@
 # 3D-simulation-raycasting
 Simulation of an interactive 3D environment using raycasting techniques
 
+Requirements:
+
+1. Linux OS (Tested in Ubuntu and Xubuntu).
+
 Usage instructions:
 
 1. Open the computer terminal and execute the command `make` inside the project folder to compile the program.
