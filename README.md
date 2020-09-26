@@ -4,6 +4,7 @@ Simulation of an interactive 3D environment using raycasting techniques
 Requirements:
 
 1. Linux OS (Tested in Ubuntu and Xubuntu).
+2. [MinilibX](https://github.com/42Paris/minilibx-linux), which is an X-Window (X11-R6) programming API used in this project to create a window, create a modifiable image (with addressable pixels) to be represented in the window, convert the texture XPM files to modifiable images (with addresable pixels) that can be represented in the window, obtain the user's screen resolution and track the user's keyboard pressings.  
 
 Usage instructions:
 
